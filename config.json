@@ -1,1 +1,12 @@
-
+{
+  "api_key": "",
+  "engine": "openai/gpt-oss-120b",
+  "fallback_engines": ["openai/gpt-oss-20b", "qwen/qwen3.8-27b"],
+  "daily_limit": 20,
+  "max_tokens": 800,
+  "invite_hashes": ["0b48eb6828f8bae23cce2465b878190a4415acd54d6914708ba444a5f38c86b0"],
+  "notice": "",
+  "notice_id": "",
+  "disabled": false,
+  "disabled_message": "سرویس در دسترس نیست."
+}
